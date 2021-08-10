@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import {BrowserRouter as Router} from 'react'
 import Form from "./Form";
 import Result from "./Result";
 import "./App.css";
